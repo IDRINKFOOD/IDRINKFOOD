@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IDRINKFOOD
+- 👋 Hi, I’m @I_DRINK_FOOD
 - 👀 I’m interested in modding
      Im not very good tho!
 - 🌱 I’m currently learning ...

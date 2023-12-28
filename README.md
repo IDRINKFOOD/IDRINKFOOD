@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @I_DRINK_FOOD
+- 👋 Hi, I drink food.
 - 👀 I’m interested in modding
-     Im not very good tho!
+     (Im not very good tho!)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on modding projects
 - 📫 How to reach me jhubb2911@gmail.com
